@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ameliayurkofsky
-- 👀 I’m a data scientist interested in product strategy, machine learning, and people analytics. My passion is finding the story within the data, and using those insights to drive action.
+- 👀 I’m a data scientist interested in product strategy, machine learning, and people analytics. My passion is finding stories within the data, bringing those insights to others, and working collaboratively to turn those insights into action.
 
 <!---
 ameliayurkofsky/ameliayurkofsky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
